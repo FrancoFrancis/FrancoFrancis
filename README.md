@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ethamfrancis" target="blank"><img src="https://img.shields.io/twitter/follow/ethamfrancis?logo=twitter&style=for-the-badge" alt="ethamfrancis" /></a> </p>
 
-- 🔭 I’m currently working on **Tetris game**
+- 🔭 I’m currently working on **building projects for my portfolio**
 
 - 🌱 I’m currently learning **JavaScript**
 
