@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Any resource that is helpful**
 
-- 📝 I regularly write articles on [https://francis123.medium.com/hey-hi-im-francis-etham-im-a-self-taught-software-developer-i-have-a-goal-of-becoming-the-best-671e2918804a](https://francis123.medium.com/hey-hi-im-francis-etham-im-a-self-taught-software-developer-i-have-a-goal-of-becoming-the-best-671e2918804a)
+<!-- - 📝 I regularly write articles on [https://francis123.medium.com/hey-hi-im-francis-etham-im-a-self-taught-software-developer-i-have-a-goal-of-becoming-the-best-671e2918804a](https://francis123.medium.com/hey-hi-im-francis-etham-im-a-self-taught-software-developer-i-have-a-goal-of-becoming-the-best-671e2918804a) -->
 
 - 💬 Ask me about **frontend Web developement/music/people**
 
