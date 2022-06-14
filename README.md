@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **francisetham01@gmail.com**
 
-- ⚡ Fun fact **Iv got swagg and I code**
+- ⚡ Fun fact **Im not the best coder but I add value**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
