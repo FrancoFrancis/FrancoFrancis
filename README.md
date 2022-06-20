@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/ethamfrancis" target="blank"><img src="https://img.shields.io/twitter/follow/ethamfrancis?logo=twitter&style=for-the-badge" alt="ethamfrancis" /></a> </p>
 
-- 🔭 I’m currently working on **building projects for my portfolio**
+- 🔭 I’m currently working on **building project to sharpen my js skills **
 
 - 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 🤝 I’m looking for help with **Any resource that is helpful**
+- 🤝 I’m looking for help with **Useful resources that will be of great help**
 
 <!-- - 📝 I regularly write articles on [https://francis123.medium.com/hey-hi-im-francis-etham-im-a-self-taught-software-developer-i-have-a-goal-of-becoming-the-best-671e2918804a](https://francis123.medium.com/hey-hi-im-francis-etham-im-a-self-taught-software-developer-i-have-a-goal-of-becoming-the-best-671e2918804a) -->
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **francisetham01@gmail.com**
 
-- ⚡ Fun fact **Im not the best coder but I add value**
+- ⚡ Fun fact **Im not the best coder but I add value in any way possible**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
