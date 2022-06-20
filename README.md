@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Francis](https://www.linkedin.com/in/preetham-b-95a962153).
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> #I'm [Francis](https://www.linkedin.com/in/preetham-b-95a962153).
 
 <h3 align="center">A passionate frontend developer from West Africa</h3>
 
