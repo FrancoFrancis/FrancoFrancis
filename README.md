@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Francis Etham</h1>
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Francis](https://www.linkedin.com/in/preetham-b-95a962153).
+
 <h3 align="center">A passionate frontend developer from West Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francofrancis&label=Profile%20views&color=0e75b6&style=flat" alt="francofrancis" /> </p>
