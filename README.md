@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **francisetham01@gmail.com**
 
-- ⚡ Fun fact **Im not the best but I will give it all I have got**
+- ⚡ Fun fact **Anything is possible**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
