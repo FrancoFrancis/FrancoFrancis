@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <h1> Hi there,I'm Francis </h1>(https://www.linkedin.com/in/francis-etham-207202202)
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <h1> Hi there,I'm Francis </h1>
 
 <h3 align="center">A passionate frontend developer from West Africa</h3>
 
@@ -7,11 +7,13 @@
 <p align="left"> <a href="https://twitter.com/ethamfrancis" target="blank"><img src="https://img.shields.io/twitter/follow/ethamfrancis?logo=twitter&style=for-the-badge" alt="ethamfrancis" /></a> </p>
 
 
-- 🌱 I’m currently learningand building  with **React**
+- 🌱 I’m currently learning and building  with **React**
 
-- 👯 I’m looking to collaborate on **Open source projects**
+- **linked-in** (https://www.linkedin.com/in/francis-etham-207202202)
 
-<!-- - 📝 I regularly write articles on [https://francis123.medium.com/hey-hi-im-francis-etham-im-a-self-taught-software-developer-i-have-a-goal-of-becoming-the-best-671e2918804a](https://francis123.medium.com/hey-hi-im-francis-etham-im-a-self-taught-software-developer-i-have-a-goal-of-becoming-the-best-671e2918804a) -->
+- 👯 I’m open to collaborate on projects
+
+<!-- - 📝 I sometimes write articles on [https://francis123.medium.com/hey-hi-im-francis-etham-im-a-self-taught-software-developer-i-have-a-goal-of-becoming-the-best-671e2918804a](https://francis123.medium.com/hey-hi-im-francis-etham-im-a-self-taught-software-developer-i-have-a-goal-of-becoming-the-best-671e2918804a) -->
 
 - 💬 Ask me about *front end web developement**
 
