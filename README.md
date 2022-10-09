@@ -1,6 +1,11 @@
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <h1> Hi there,I'm Francis </h1>
 
-<h3 align="center">A passionate frontend developer from West Africa</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,YO!👋;I'm+Francis...;WWelcome+to+my+Hub!&center=true&size=40&">
+  </a>
+</h1>
+
+<h3 align="center">A frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francofrancis&label=Profile%20views&color=0e75b6&style=flat" alt="francofrancis" /> </p>
 
