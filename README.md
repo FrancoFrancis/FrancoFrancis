@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning and building  with **React**
 
-- 👯 I’m open to collaborate on open source
+- 👯 I’m currently contributing to open source at outreachy
 
 - 💬 Ask me about *front end web developement**
 
