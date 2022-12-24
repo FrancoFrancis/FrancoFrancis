@@ -12,11 +12,11 @@
 <p align="left"> <a href="https://twitter.com/ethamfrancis" target="blank"><img src="https://img.shields.io/twitter/follow/ethamfrancis?logo=twitter&style=for-the-badge" alt="ethamfrancis" /></a> </p>
 
 
-- 🌱 I’m currently learning and building  with **React**
+- 🌱 I’m currently learning and building  with **Reactjs**
 
 - 👯 I’m currently contributing to open source at outreachy
 
-- 💬 Ask me about *front end web developement**
+- 💬 Ask me about *front end web developement*
 
 - ⚡ Fun fact **I am an entrepreneur and I love to write music too!**
 
