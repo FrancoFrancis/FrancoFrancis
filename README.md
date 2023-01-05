@@ -14,8 +14,6 @@
 
 - 🌱 I’m currently learning and building  with **Reactjs**
 
-- 👯 I’m currently contributing to open source at outreachy
-
 - 💬 Ask me about *front end web developement*
 
 - ⚡ Fun fact **I am an entrepreneur and I love to write music too!**
