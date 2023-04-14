@@ -5,14 +5,14 @@
   </a>
 </h1>
 
-<h3 align="center">Front-end Web developer</h3>
+<h3 align="center">Front-end Web developer  **Nextjs**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francofrancis&label=Profile%20views&color=0e75b6&style=flat" alt="francofrancis" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ethamfrancis" target="blank"><img src="https://img.shields.io/twitter/follow/ethamfrancis?logo=twitter&style=for-the-badge" alt="ethamfrancis" /></a> </p>
 
 
-- 🌱 I’m currently learning and building  with **Reactjs**
+- 🥑 Opensource
 
 - 💬 Ask me about *front end web developement*
 
