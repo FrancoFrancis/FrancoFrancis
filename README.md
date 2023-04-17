@@ -16,9 +16,11 @@
 
 - 🥑 Opensource Contributor
 
-- 💬 Ask me about *front end web developement*
+- 💬 Ask me about *front end web developement and everything in between*
 
-- ⚡ Fun fact **I am an entrepreneur with the Vison of building the future of Africa, I love to write music too!**
+- 👑 I am an entrepreneur with the Vison of building the future of Africa.
+
+- ⚡ Fun fact **I love to write music too!**
 
 <h3 align="left">Lets Connect:</h3>
 <p align="left">
