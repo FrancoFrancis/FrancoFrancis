@@ -18,7 +18,7 @@
 
 - 💬 Ask me about *front end web developement and everything in between*
 
-- 👑 I am an entrepreneur with the Vison of building the future of Africa.
+- 👑 I am an entrepreneur with the Vison of building for the future of Africa.
 
 - ⚡ Fun fact **I love to write music too!**
 
