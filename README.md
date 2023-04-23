@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h3 align="center">Front-end Web developer </h3>
+<h3 align="center">Front-end Web developer / Entrepreneur </h3>
 
 <h3 align="center">Always Learning and Working on my personal development </h3>
 
@@ -20,7 +20,7 @@
 
 - 👑 I am an entrepreneur with the Vison of building for the future of technology in Africa.
 
-- ⚡ Fun fact **I love to write music too!**
+- ⚡ Fun fact **I love to sing and write music!**
 
 <h3 align="left">Lets Connect:</h3>
 <p align="left">
