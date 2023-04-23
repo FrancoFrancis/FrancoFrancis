@@ -13,12 +13,12 @@
 
 <p align="left"> <a href="https://twitter.com/ethamfrancis" target="blank"><img src="https://img.shields.io/twitter/follow/ethamfrancis?logo=twitter&style=for-the-badge" alt="ethamfrancis" /></a> </p>
 
-
-- 🥑 Opensource Contributor
+- frontend Web Developer / Designer
+- 🥑 Open source Contributor
 
 - 💬 Ask me about *front end web developement and everything in between*
 
-- 👑 I am an entrepreneur with the Vison of building for the future of Africa.
+- 👑 I am an entrepreneur with the Vison of building for the future of technology in Africa.
 
 - ⚡ Fun fact **I love to write music too!**
 
