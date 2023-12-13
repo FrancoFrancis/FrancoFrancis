@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h3 align="center">Front-end Web developer / Entrepreneur </h3>
+<h3 align="center">Front-End Web developer / Entrepreneur </h3>
 
 <h3 align="center">Always Learning and Working on my personal development </h3>
 
@@ -16,9 +16,9 @@
 - frontend Web Developer / Designer
 - 🥑 Open source Contributor
 
-- 💬 Ask me about *front end web developement and everything in between*
+- 💬 Ask me about *front end web development and everything in between*
 
-- 👑 I am an entrepreneur with the Vison of building for the future of technology in Africa.
+- 🧡 Lately I have been learning more about sales and marketing than coding.
 
 - ⚡ Fun fact **I love to sing and write music!**
 
